@@ -1,7 +1,7 @@
 ---
 title: "Cabbages"
-author: "Put your name here!"
-date: "put the date here"
+author: "lana"
+date: "09/13/2023"
 output:
   html_document:
     df_print: paged
@@ -24,10 +24,12 @@ veggy <- cabbages
 $H_0$: there is no difference in the vitamin C content of cabbages based on cultivation method 
 
 $H_A$: there is a difference in the vitamin C content of cabbages ased on cultivation method 
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+Vitamin C cotent is a 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
